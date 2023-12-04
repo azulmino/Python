@@ -1,3 +1,4 @@
+#FOR y WHILE
 print("Introduce un número: ")
 numero = int( input("Num: "))
 while numero > 0 :
