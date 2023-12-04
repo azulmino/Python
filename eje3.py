@@ -1,3 +1,4 @@
+#FOR y WHILE
 primero = 2
 limite = 1000
 Cont = 0
