@@ -1,3 +1,4 @@
+#FOR y WHILE
 print("Ingrese un valor para x: ")
 x = int( input())
 
