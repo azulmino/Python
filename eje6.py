@@ -1,3 +1,4 @@
+#FOR y WHILE
 A1 = 1
 A2 = 0
 An = A1 + (2 * A2)
